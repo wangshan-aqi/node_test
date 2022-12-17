@@ -8,8 +8,6 @@ const fs = require('fs');
 
 const server = http.createServer((req, res) => {
     const w = fs.createWriteStream(__dirname + '/a.jpg')
-    debugger
-    
     req.on('data', (chunk) => {
         w.write(chunk)
     })

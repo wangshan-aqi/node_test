@@ -1,0 +1,17 @@
+const obj = [
+    { name: '基利安·姆巴佩', age: 23 },
+    { name: '梅西', age: 35 },
+    { name: 'C罗', age: 37 },
+    { name: '内马尔', age: 30 },
+    { name: '莫德里奇', age: 37 },
+    { name: '库尔图瓦', age: 30 },
+    { name: '马内', age: 30 },
+    { name: '凯恩', age: 29 },
+    { name: '范戴克', age: 31 },
+    { name: '孙兴慜', age: 30 },
+    { name: '巴尔韦德', age: 24 },
+    { name: '基米希', age: 27 },
+    { name: '坎塞洛', age: 23 },
+    { name: '福登', age: 22 },
+    { name: '佩德里', age: 20 },
+]
